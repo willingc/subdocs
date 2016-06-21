@@ -1,3 +1,6 @@
 [submodule "source/notebook"]
 	path = source/notebook
 	url = https://github.com/jupyter/notebook.git
+[submodule "source/nbconvert"]
+	path = source/nbconvert
+	url = https://github.com/jupyter/nbconvert.git
