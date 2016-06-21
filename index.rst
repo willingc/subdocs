@@ -9,12 +9,12 @@ Welcome to Subdocs's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
+   source/jupyter/docs/source/contents
    source/notebook/docs/source/index
    source/qtconsole/docs/source/index
    source/nbconvert/docs/source/index
-   source/jupyter/docs/source/contents
 
 Indices and tables
 ==================
