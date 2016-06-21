@@ -1,0 +1,3 @@
+[submodule "source/notebook"]
+	path = source/notebook
+	url = https://github.com/jupyter/notebook.git
