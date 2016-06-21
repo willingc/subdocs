@@ -7,3 +7,6 @@
 [submodule "source/qtconsole"]
 	path = source/qtconsole
 	url = https://github.com/jupyter/qtconsole.git
+[submodule "source/jupyter"]
+	path = source/jupyter
+	url = https://github.com/jupyter/jupyter.git

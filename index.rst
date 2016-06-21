@@ -11,7 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   source/notebook/docs/source/index
+   source/qtconsole/docs/source/index
+   source/nbconvert/docs/source/index
 
 Indices and tables
 ==================
