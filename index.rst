@@ -14,6 +14,7 @@ Contents:
    source/notebook/docs/source/index
    source/qtconsole/docs/source/index
    source/nbconvert/docs/source/index
+   source/jupyter/docs/source/contents
 
 Indices and tables
 ==================
